@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace Kalkulatorsederhana
+namespace TebakAngka
 {
     class Program
     {
