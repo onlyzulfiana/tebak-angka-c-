@@ -1,0 +1,14 @@
+C:\Users\user\Documents\18985\TebakAngka\bin\Debug\net7.0\TebakAngka.exe
+C:\Users\user\Documents\18985\TebakAngka\bin\Debug\net7.0\TebakAngka.deps.json
+C:\Users\user\Documents\18985\TebakAngka\bin\Debug\net7.0\TebakAngka.runtimeconfig.json
+C:\Users\user\Documents\18985\TebakAngka\bin\Debug\net7.0\TebakAngka.dll
+C:\Users\user\Documents\18985\TebakAngka\bin\Debug\net7.0\TebakAngka.pdb
+C:\Users\user\Documents\18985\TebakAngka\obj\Debug\net7.0\TebakAngka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\18985\TebakAngka\obj\Debug\net7.0\TebakAngka.AssemblyInfoInputs.cache
+C:\Users\user\Documents\18985\TebakAngka\obj\Debug\net7.0\TebakAngka.AssemblyInfo.cs
+C:\Users\user\Documents\18985\TebakAngka\obj\Debug\net7.0\TebakAngka.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\18985\TebakAngka\obj\Debug\net7.0\TebakAngka.dll
+C:\Users\user\Documents\18985\TebakAngka\obj\Debug\net7.0\refint\TebakAngka.dll
+C:\Users\user\Documents\18985\TebakAngka\obj\Debug\net7.0\TebakAngka.pdb
+C:\Users\user\Documents\18985\TebakAngka\obj\Debug\net7.0\TebakAngka.genruntimeconfig.cache
+C:\Users\user\Documents\18985\TebakAngka\obj\Debug\net7.0\ref\TebakAngka.dll
